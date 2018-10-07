@@ -31,3 +31,22 @@
 * y-axis: budget
 * z-axis: buzzword count 
 ![alt text](https://github.com/EZL1190/Assignment-4/blob/master/img/plot3.PNG)
+
+# How to
+* Clone the repo
+* Run main.py https://raw.githubusercontent.com/MikkelHansen95/dataset/master/movies_metadata.csv
+
+### dependencies 
+* import matplotlib.pyplot as plt
+* import collections as col
+* import operator
+* from mpl_toolkits.mplot3d import Axes3D
+* import sys
+* import tasks
+* import webget
+* import csv_data_conversion as cdc
+
+
+
+
+
