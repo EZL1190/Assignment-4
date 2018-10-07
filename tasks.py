@@ -83,7 +83,6 @@ def plot1(data):
     plt.xlabel("MM/DD", fontsize=10)
     plt.ylabel("Number of movies", fontsize=10)
     plt.tick_params(axis='both', which='major', labelsize=10)
-    print(final_data)
     plt.show()
 
 def plot2(data):
