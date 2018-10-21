@@ -1,6 +1,6 @@
 # Assignment-4
 
-## Group: Oliver Scholz Lønning, Stefan Schou Eliasen, Elias Zinabidine Laghouila og Mathias Bertels Jensenius
+## Group: Oliver Scholz Lønning, Stefan Schou Eliasen, Elias Zinabidine Laghouila og Mathias Bartels Jensenius
 
 ### How many movie are rated adult?
 * Movies rated adult: 9
